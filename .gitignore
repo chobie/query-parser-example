@@ -1,0 +1,6 @@
+src/launchpad.net
+src/query/lex.yy.c
+src/query/y.tab.c
+src/query/y.tab.h
+src/query/*.out
+pkg
